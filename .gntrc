@@ -1,8 +1,8 @@
 [general]
 shadow = 0
-mouse = 1
+mouse = 0
 wm = /usr/lib/gnt/irssi.so
-remember_position = 1
+remember_position = 0
 small-button = true
 
 [GntWM::binding]
@@ -17,4 +17,4 @@ k = move-up
 l = \r
 
 [Finch]
-mouse = 1
+mouse = 0
